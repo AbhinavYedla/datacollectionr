@@ -1,0 +1,1016 @@
+Date	Source	Country	Strength	Sentiment	Passion	Reach
+6/19/2016	blogs	Afghanistan	6	2:01	0	3
+6/19/2016	microblogs	Afghanistan	NA	NA	NA	NA
+6/19/2016	bookmarks	Afghanistan	38	1:03	15	32
+6/19/2016	images	Afghanistan	67	1:00	66	18
+6/19/2016	all	Afghanistan	64	1:01	29	44
+6/19/2016	blogs	Albania	NA	NA	NA	NA
+6/19/2016	microblogs	Albania	100	4:01	2	188
+6/19/2016	bookmarks	Albania	38	9:01	10	34
+6/19/2016	images	Albania	100	0:01	72	40
+6/19/2016	all	Albania	51	2:01	57	22
+6/19/2016	blogs	Algeria	5	1:00	0	5
+6/19/2016	microblogs	Algeria	100	28:01:00	10	176
+6/19/2016	bookmarks	Algeria	24	6:01	15	34
+6/19/2016	images	Algeria	100	6:00	97	3
+6/19/2016	all	Algeria	85	20:01	50	44
+6/19/2016	blogs	Andorra	4	2:00	25	3
+6/19/2016	microblogs	Andorra	NA	NA	NA	NA
+6/19/2016	bookmarks	Andorra	8	6:01	27	26
+6/19/2016	images	Andorra	74	0:00	71	11
+6/19/2016	all	Andorra	24	8:01	55	14
+6/19/2016	blogs	Angola	2	1:02	0	2
+6/19/2016	microblogs	Angola	100	1:05	16	110
+6/19/2016	bookmarks	Angola	10	5:01	11	30
+6/19/2016	images	Angola	90	0:00	69	21
+6/19/2016	all	Angola	38	2:01	56	19
+6/19/2016	blogs	Antigua and Barbuda	4	1:00	0	4
+6/19/2016	microblogs	Antigua and Barbuda	100	1:00	7	106
+6/19/2016	bookmarks	Antigua and Barbuda	4	1:00	0	6
+6/19/2016	images	Antigua and Barbuda	100	2:00	78	44
+6/19/2016	all	Antigua and Barbuda	81	5:00	50	40
+6/19/2016	blogs	Argentina	12	1:02	0	1
+6/19/2016	microblogs	Argentina	100	1:01	0	194
+6/19/2016	bookmarks	Argentina	42	1:01	9	38
+6/19/2016	images	Argentina	100	0:00	53	46
+6/19/2016	all	Argentina	92	1:02	24	66
+6/19/2016	blogs	Armenia	2	1:00	0	2
+6/19/2016	microblogs	Armenia	100	1:01	17	146
+6/19/2016	bookmarks	Armenia	10	2:01	7	26
+6/19/2016	images	Armenia	96	0:00	84	14
+6/19/2016	all	Armenia	66	2:01	73	20
+6/19/2016	blogs	Australia	5	1:02	0	1
+6/19/2016	microblogs	Australia	54	2:01	0	54
+6/19/2016	bookmarks	Australia	34	1:01	5	32
+6/19/2016	images	Australia	100	3:01	49	51
+6/19/2016	all	Australia	64	1:01	33	42
+6/19/2016	blogs	Austria	11	2:00	0	1
+6/19/2016	microblogs	Austria	NA	NA	NA	NA
+6/19/2016	bookmarks	Austria	44	4:01	9	40
+6/19/2016	images	Austria	100	2:01	60	40
+6/19/2016	all	Austria	90	5:01	29	60
+6/19/2016	blogs	Azerbaijan	17	6:00	0	7
+6/19/2016	microblogs	Azerbaijan	100	10:00	12	156
+6/19/2016	bookmarks	Azerbaijan	14	2:01	21	30
+6/19/2016	images	Azerbaijan	100	0:00	79	20
+6/19/2016	all	Azerbaijan	85	18:01	43	48
+6/19/2016	blogs	Bahamas	6	5:01	0	0
+6/19/2016	microblogs	Bahamas	100	12:01	4	182
+6/19/2016	bookmarks	Bahamas	12	5:01	6	30
+6/19/2016	images	Bahamas	100	1:00	38	116
+6/19/2016	all	Bahamas	100	7:01	20	82
+6/19/2016	blogs	Bahrain	2	1:00	0	2
+6/19/2016	microblogs	Bahrain	100	4:00	18	128
+6/19/2016	bookmarks	Bahrain	14	5:00	5	38
+6/19/2016	images	Bahrain	100	1:00	77	22
+6/19/2016	all	Bahrain	54	7:00	64	22
+6/19/2016	blogs	Bangladesh	6	1:01	0	3
+6/19/2016	microblogs	Bangladesh	NA	NA	NA	NA
+6/19/2016	bookmarks	Bangladesh	42	3:00	33	28
+6/19/2016	images	Bangladesh	71	2:00	56	22
+6/19/2016	all	Bangladesh	39	5:01	47	20
+6/19/2016	blogs	Barbados	6	1:01	0	4
+6/19/2016	microblogs	Barbados	NA	NA	NA	NA
+6/19/2016	bookmarks	Barbados	12	3:01	19	34
+6/19/2016	images	Barbados	100	1:00	62	37
+6/19/2016	all	Barbados	84	7:01	31	61
+6/19/2016	blogs	Belarus	8	0:00	75	2
+6/19/2016	microblogs	Belarus	NA	NA	NA	NA
+6/19/2016	bookmarks	Belarus	18	5:00	15	34
+6/19/2016	images	Belarus	100	0:00	88	11
+6/19/2016	all	Belarus	74	3:01	56	34
+6/19/2016	blogs	Belgium	6	2:01	0	1
+6/19/2016	microblogs	Belgium	100	11:01	3	172
+6/19/2016	bookmarks	Belgium	38	4:01	10	34
+6/19/2016	images	Belgium	100	1:00	73	54
+6/19/2016	all	Belgium	86	6:01	36	53
+6/19/2016	blogs	Belize	5	2:01	0	4
+6/19/2016	microblogs	Belize	NA	NA	NA	NA
+6/19/2016	bookmarks	Belize	2	1:01	12	28
+6/19/2016	images	Belize	87	3:00	63	31
+6/19/2016	all	Belize	46	2:01	53	25
+6/19/2016	blogs	Benin	3	1:00	0	3
+6/19/2016	microblogs	Benin	NA	NA	NA	NA
+6/19/2016	bookmarks	Benin	2	5:00	0	16
+6/19/2016	images	Benin	100	0:00	36	58
+6/19/2016	all	Benin	48	6:00	32	35
+6/19/2016	blogs	Bhutan	2	2:00	0	2
+6/19/2016	microblogs	Bhutan	100	9:00	17	156
+6/19/2016	bookmarks	Bhutan	8	6:01	9	40
+6/19/2016	images	Bhutan	79	2:00	82	13
+6/19/2016	all	Bhutan	70	12:01	40	46
+6/19/2016	blogs	Bolivia	7	1:00	0	3
+6/19/2016	microblogs	Bolivia	100	0:00	13	164
+6/19/2016	bookmarks	Bolivia	16	4:01	15	32
+6/19/2016	images	Bolivia	46	1:00	69	13
+6/19/2016	all	Bolivia	62	5:01	27	47
+6/19/2016	blogs	Bosnia and Herzegovina	0	1:00	0	0
+6/19/2016	microblogs	Bosnia and Herzegovina	NA	NA	NA	NA
+6/19/2016	bookmarks	Bosnia and Herzegovina	26	6:01	14	36
+6/19/2016	images	Bosnia and Herzegovina	100	1:00	62	60
+6/19/2016	all	Bosnia and Herzegovina	95	15:01	34	65
+6/19/2016	blogs	Botswana	4	1:04	25	3
+6/19/2016	microblogs	Botswana	100	4:01	28	140
+6/19/2016	bookmarks	Botswana	8	1:01	10	36
+6/19/2016	images	Botswana	94	1:00	61	35
+6/19/2016	all	Botswana	79	2:01	40	51
+6/19/2016	blogs	Brazil	8	2:00	20	4
+6/19/2016	microblogs	Brazil	100	6:01	8	174
+6/19/2016	bookmarks	Brazil	38	2:01	10	34
+6/19/2016	images	Brazil	100	0:00	31	128
+6/19/2016	all	Brazil	61	2:01	27	43
+6/19/2016	blogs	Brunei	NA	NA	NA	NA
+6/19/2016	microblogs	Brunei	100	7:01	6	178
+6/19/2016	bookmarks	Brunei	20	1:01	33	24
+6/19/2016	images	Brunei	100	0:00	73	48
+6/19/2016	all	Brunei	99	3:01	37	64
+6/19/2016	blogs	Bulgaria	2	3:00	0	2
+6/19/2016	microblogs	Bulgaria	100	5:00	7	166
+6/19/2016	bookmarks	Bulgaria	34	7:01	0	34
+6/19/2016	images	Bulgaria	77	2:00	53	31
+6/19/2016	all	Bulgaria	70	17:01	24	54
+6/19/2016	blogs	Burkina	8	1:00	0	8
+6/19/2016	microblogs	Burkina	100	1:01	15	164
+6/19/2016	bookmarks	Burkina	4	5:01	0	16
+6/19/2016	images	Burkina	98	0:00	63	35
+6/19/2016	all	Burkina	100	3:01	37	65
+6/19/2016	blogs	Burundi	3	2:00	33	2
+6/19/2016	microblogs	Burundi	NA	NA	NA	NA
+6/19/2016	bookmarks	Burundi	2	2:01	10	18
+6/19/2016	images	Burundi	100	2:00	62	54
+6/19/2016	all	Burundi	68	15:01	48	37
+6/19/2016	blogs	Cambodia	3	1:01	0	2
+6/19/2016	microblogs	Cambodia	100	18:00	6	164
+6/19/2016	bookmarks	Cambodia	26	3:01	0	40
+6/19/2016	images	Cambodia	100	0:00	97	6
+6/19/2016	all	Cambodia	82	6:01	49	43
+6/19/2016	blogs	Cameroon	3	0:00	0	3
+6/19/2016	microblogs	Cameroon	100	3:01	18	114
+6/19/2016	bookmarks	Cameroon	10	12:01	30	28
+6/19/2016	images	Cameroon	100	1:00	34	126
+6/19/2016	all	Cameroon	70	5:01	28	55
+6/19/2016	blogs	Canada	8	2:01	0	4
+6/19/2016	microblogs	Canada	100	7:01	5	134
+6/19/2016	bookmarks	Canada	34	3:01	0	34
+6/19/2016	images	Canada	100	2:00	59	41
+6/19/2016	all	Canada	63	3:01	48	31
+6/19/2016	blogs	Cape Verde	7	0:01	14	6
+6/19/2016	microblogs	Cape Verde	100	24:01:00	8	162
+6/19/2016	bookmarks	Cape Verde	0	1:00	0	2
+6/19/2016	images	Cape Verde	100	8:00	58	76
+6/19/2016	all	Cape Verde	75	17:01	32	51
+6/19/2016	blogs	Central African Republic	2	0:01	0	2
+6/19/2016	microblogs	Central African Republic	100	1:01	5	164
+6/19/2016	bookmarks	Central African Republic	8	2:01	22	28
+6/19/2016	images	Central African Republic	74	0:00	21	59
+6/19/2016	all	Central African Republic	40	1:01	21	37
+6/19/2016	blogs	Chad	8	2:00	0	4
+6/19/2016	microblogs	Chad	NA	NA	NA	NA
+6/19/2016	bookmarks	Chad	42	7:01	33	28
+6/19/2016	images	Chad	100	19:00	65	31
+6/19/2016	all	Chad	59	17:01	57	25
+6/19/2016	blogs	Chile	13	2:01	0	3
+6/19/2016	microblogs	Chile	NA	NA	NA	NA
+6/19/2016	bookmarks	Chile	36	0:05	33	24
+6/19/2016	images	Chile	78	4:00	26	50
+6/19/2016	all	Chile	79	1:01	14	64
+6/19/2016	blogs	China	12	0:00	50	3
+6/19/2016	microblogs	China	NA	NA	NA	NA
+6/19/2016	bookmarks	China	38	1:01	5	36
+6/19/2016	images	China	100	4:00	65	35
+6/19/2016	all	China	87	3:01	35	55
+6/19/2016	blogs	Colombia	8	2:00	0	0
+6/19/2016	microblogs	Colombia	100	6:00	5	186
+6/19/2016	bookmarks	Colombia	42	5:01	28	30
+6/19/2016	images	Colombia	75	0:00	33	46
+6/19/2016	all	Colombia	64	6:01	32	41
+6/19/2016	blogs	Comoros	2	1:00	0	4
+6/19/2016	microblogs	Comoros	NA	NA	NA	NA
+6/19/2016	bookmarks	Comoros	2	1:00	0	6
+6/19/2016	images	Comoros	100	0:00	92	14
+6/19/2016	all	Comoros	66	2:00	88	8
+6/19/2016	blogs	Congo	1	0:00	0	1
+6/19/2016	microblogs	Congo	100	3:01	28	138
+6/19/2016	bookmarks	Congo	26	7:01	15	32
+6/19/2016	images	Congo	100	0:01	76	23
+6/19/2016	all	Congo	57	4:01	66	20
+6/19/2016	blogs	Democratic Republic of Congo	9	4:01	12	7
+6/19/2016	microblogs	Democratic Republic of Congo	NA	NA	NA	NA
+6/19/2016	bookmarks	Democratic Republic of Congo	0	2:00	16	10
+6/19/2016	images	Democratic Republic of Congo	100	1:01	35	118
+6/19/2016	all	Democratic Republic of Congo	51	3:01	33	36
+6/19/2016	blogs	Costa Rica	7	8:00	0	5
+6/19/2016	microblogs	Costa Rica	100	13:01	25	126
+6/19/2016	bookmarks	Costa Rica	16	7:00	6	28
+6/19/2016	images	Costa Rica	100	19:00	69	31
+6/19/2016	all	Costa Rica	80	47:01:00	44	46
+6/19/2016	blogs	Croatia	5	4:01	0	3
+6/19/2016	microblogs	Croatia	NA	NA	NA	NA
+6/19/2016	bookmarks	Croatia	40	4:00	5	38
+6/19/2016	images	Croatia	100	2:00	59	28
+6/19/2016	all	Croatia	47	8:01	45	25
+6/19/2016	blogs	Cuba	7	1:02	0	1
+6/19/2016	microblogs	Cuba	100	1:04	9	174
+6/19/2016	bookmarks	Cuba	34	4:01	5	38
+6/19/2016	images	Cuba	100	1:02	57	43
+6/19/2016	all	Cuba	89	1:01	29	62
+6/19/2016	blogs	Cyprus	0	2:00	0	0
+6/19/2016	microblogs	Cyprus	NA	NA	NA	NA
+6/19/2016	bookmarks	Cyprus	28	2:01	31	26
+6/19/2016	images	Cyprus	100	4:00	80	19
+6/19/2016	all	Cyprus	99	3:01	48	53
+6/19/2016	blogs	Czech Republic	6	5:01	20	4
+6/19/2016	microblogs	Czech Republic	100	7:01	10	166
+6/19/2016	bookmarks	Czech Republic	42	11:00	14	36
+6/19/2016	images	Czech Republic	76	5:00	60	30
+6/19/2016	all	Czech Republic	78	9:01	30	54
+6/19/2016	blogs	Denmark	3	4:00	0	1
+6/19/2016	microblogs	Denmark	NA	NA	NA	NA
+6/19/2016	bookmarks	Denmark	44	1:05	22	34
+6/19/2016	images	Denmark	100	0:00	75	25
+6/19/2016	all	Denmark	63	1:01	65	22
+6/19/2016	blogs	Djibouti	2	1:00	0	2
+6/19/2016	microblogs	Djibouti	NA	NA	NA	NA
+6/19/2016	bookmarks	Djibouti	2	3:00	16	10
+6/19/2016	images	Djibouti	68	1:00	57	24
+6/19/2016	all	Djibouti	39	5:00	52	20
+6/19/2016	blogs	Dominica	3	4:01	33	2
+6/19/2016	microblogs	Dominica	100	2:01	0	130
+6/19/2016	bookmarks	Dominica	4	3:00	0	22
+6/19/2016	images	Dominica	100	2:00	97	3
+6/19/2016	all	Dominica	68	4:01	54	33
+6/19/2016	blogs	Dominican Republic	4	1:01	25	3
+6/19/2016	microblogs	Dominican Republic	NA	NA	NA	NA
+6/19/2016	bookmarks	Dominican Republic	12	6:00	20	32
+6/19/2016	images	Dominican Republic	52	0:01	64	16
+6/19/2016	all	Dominican Republic	47	3:01	27	38
+6/19/2016	blogs	East Timor	6	0:00	16	5
+6/19/2016	microblogs	East Timor	100	3:00	22	140
+6/19/2016	bookmarks	East Timor	2	2:01	7	24
+6/19/2016	images	East Timor	100	1:00	68	31
+6/19/2016	all	East Timor	79	4:01	43	48
+6/19/2016	blogs	Ecuador	6	4:00	0	4
+6/19/2016	microblogs	Ecuador	NA	NA	NA	NA
+6/19/2016	bookmarks	Ecuador	40	5:00	40	24
+6/19/2016	images	Ecuador	96	1:00	60	26
+6/19/2016	all	Ecuador	46	9:00	52	21
+6/19/2016	blogs	Egypt	8	2:01	0	0
+6/19/2016	microblogs	Egypt	100	9:00	14	140
+6/19/2016	bookmarks	Egypt	38	2:01	15	32
+6/19/2016	images	Egypt	100	2:00	69	31
+6/19/2016	all	Egypt	82	2:01	60	32
+6/19/2016	blogs	El Salvador	9	0:01	12	7
+6/19/2016	microblogs	El Salvador	NA	NA	NA	NA
+6/19/2016	bookmarks	El Salvador	4	2:01	6	30
+6/19/2016	images	El Salvador	100	1:00	78	22
+6/19/2016	all	El Salvador	73	2:01	45	43
+6/19/2016	blogs	Equatorial Guinea	NA	NA	NA	NA
+6/19/2016	microblogs	Equatorial Guinea	100	1:00	9	172
+6/19/2016	bookmarks	Equatorial Guinea	4	1:00	0	14
+6/19/2016	images	Equatorial Guinea	100	1:00	25	86
+6/19/2016	all	Equatorial Guinea	80	3:00	15	91
+6/19/2016	blogs	Eritrea	2	1:00	0	2
+6/19/2016	microblogs	Eritrea	100	1:03	13	162
+6/19/2016	bookmarks	Eritrea	2	5:01	11	30
+6/19/2016	images	Eritrea	100	0:00	19	80
+6/19/2016	all	Eritrea	79	1:01	15	72
+6/19/2016	blogs	Estonia	3	0:02	0	3
+6/19/2016	microblogs	Estonia	100	1:01	14	158
+6/19/2016	bookmarks	Estonia	22	3:01	21	30
+6/19/2016	images	Estonia	70	0:00	62	26
+6/19/2016	all	Estonia	57	1:01	26	44
+6/19/2016	blogs	Ethiopia	2	2:00	0	1
+6/19/2016	microblogs	Ethiopia	100	6:00	10	166
+6/19/2016	bookmarks	Ethiopia	16	8:00	14	24
+6/19/2016	images	Ethiopia	81	2:01	65	28
+6/19/2016	all	Ethiopia	45	7:01	56	21
+6/19/2016	blogs	Fiji	1	2:00	0	1
+6/19/2016	microblogs	Fiji	100	4:01	3	174
+6/19/2016	bookmarks	Fiji	18	4:01	0	36
+6/19/2016	images	Fiji	84	0:00	18	41
+6/19/2016	all	Fiji	60	5:01	7	59
+6/19/2016	blogs	Finland	2	2:00	0	1
+6/19/2016	microblogs	Finland	NA	NA	NA	NA
+6/19/2016	bookmarks	Finland	42	2:01	9	38
+6/19/2016	images	Finland	100	0:00	66	34
+6/19/2016	all	Finland	84	3:01	37	52
+6/19/2016	blogs	France	6	0:00	0	3
+6/19/2016	microblogs	France	NA	NA	NA	NA
+6/19/2016	bookmarks	France	40	7:01	5	38
+6/19/2016	images	France	100	4:00	55	45
+6/19/2016	all	France	100	22:01	27	75
+6/19/2016	blogs	Gabon	6	1:00	0	6
+6/19/2016	microblogs	Gabon	NA	NA	NA	NA
+6/19/2016	bookmarks	Gabon	8	10:01	0	36
+6/19/2016	images	Gabon	69	2:00	60	28
+6/19/2016	all	Gabon	83	17:01	35	58
+6/19/2016	blogs	Gambia	1	2:01	0	1
+6/19/2016	microblogs	Gambia	100	14:01	15	142
+6/19/2016	bookmarks	Gambia	4	1:03	18	26
+6/19/2016	images	Gambia	100	1:00	67	54
+6/19/2016	all	Gambia	68	4:01	39	45
+6/19/2016	blogs	Georgia	11	1:00	0	6
+6/19/2016	microblogs	Georgia	100	15:00	5	140
+6/19/2016	bookmarks	Georgia	36	5:00	16	30
+6/19/2016	images	Georgia	100	1:00	46	98
+6/19/2016	all	Georgia	60	7:00	39	35
+6/19/2016	blogs	Germany	6	1:00	0	0
+6/19/2016	microblogs	Germany	100	9:01	8	152
+6/19/2016	bookmarks	Germany	38	1:02	36	24
+6/19/2016	images	Germany	100	2:00	80	40
+6/19/2016	all	Germany	100	3:01	45	56
+6/19/2016	blogs	Ghana	4	0:00	0	4
+6/19/2016	microblogs	Ghana	100	5:01	13	148
+6/19/2016	bookmarks	Ghana	12	8:01	23	32
+6/19/2016	images	Ghana	58	2:00	60	22
+6/19/2016	all	Ghana	33	10:01	47	21
+6/19/2016	blogs	Greece	10	1:01	0	0
+6/19/2016	microblogs	Greece	100	4:01	1	186
+6/19/2016	bookmarks	Greece	44	4:01	9	40
+6/19/2016	images	Greece	100	0:00	71	29
+6/19/2016	all	Greece	100	3:01	37	68
+6/19/2016	blogs	Grenada	2	1:00	0	2
+6/19/2016	microblogs	Grenada	100	2:01	6	138
+6/19/2016	bookmarks	Grenada	6	2:01	16	20
+6/19/2016	images	Grenada	100	1:00	77	46
+6/19/2016	all	Grenada	89	2:01	44	52
+6/19/2016	blogs	Guatemala	4	0:00	25	3
+6/19/2016	microblogs	Guatemala	100	0:00	17	122
+6/19/2016	bookmarks	Guatemala	24	1:01	0	34
+6/19/2016	images	Guatemala	84	3:00	54	38
+6/19/2016	all	Guatemala	70	2:01	33	48
+6/19/2016	blogs	Guinea	2	1:01	0	0
+6/19/2016	microblogs	Guinea	100	9:01	16	88
+6/19/2016	bookmarks	Guinea	30	9:01	16	30
+6/19/2016	images	Guinea	100	4:01	24	76
+6/19/2016	all	Guinea	78	6:01	22	61
+6/19/2016	blogs	Guinea-Bissau	NA	NA	NA	NA
+6/19/2016	microblogs	Guinea-Bissau	NA	NA	NA	NA
+6/19/2016	bookmarks	Guinea-Bissau	2	2:00	0	6
+6/19/2016	images	Guinea-Bissau	NA	NA	NA	NA
+6/19/2016	all	Guinea-Bissau	2	2:00	0	6
+6/19/2016	blogs	Guyana	4	2:00	0	3
+6/19/2016	microblogs	Guyana	NA	NA	NA	NA
+6/19/2016	bookmarks	Guyana	6	3:01	15	32
+6/19/2016	images	Guyana	10	0:00	0	8
+6/19/2016	all	Guyana	8	3:01	10	14
+6/19/2016	blogs	Haiti	3	1:02	0	2
+6/19/2016	microblogs	Haiti	100	5:01	3	166
+6/19/2016	bookmarks	Haiti	14	4:01	20	24
+6/19/2016	images	Haiti	90	0:01	29	47
+6/19/2016	all	Haiti	39	1:01	27	31
+6/19/2016	blogs	Honduras	4	0:01	25	3
+6/19/2016	microblogs	Honduras	100	6:00	3	150
+6/19/2016	bookmarks	Honduras	14	1:01	22	34
+6/19/2016	images	Honduras	100	3:00	47	104
+6/19/2016	all	Honduras	55	1:01	42	36
+6/19/2016	blogs	Hungary	4	2:00	0	1
+6/19/2016	microblogs	Hungary	NA	NA	NA	NA
+6/19/2016	bookmarks	Hungary	38	4:01	15	32
+6/19/2016	images	Hungary	100	0:00	75	50
+6/19/2016	all	Hungary	87	4:01	39	52
+6/19/2016	blogs	Iceland	7	3:00	0	2
+6/19/2016	microblogs	Iceland	100	4:01	0	194
+6/19/2016	bookmarks	Iceland	34	6:00	11	30
+6/19/2016	images	Iceland	66	1:00	41	37
+6/19/2016	all	Iceland	74	7:01	15	61
+6/19/2016	blogs	India	13	3:00	0	5
+6/19/2016	microblogs	India	NA	NA	NA	NA
+6/19/2016	bookmarks	India	38	1:01	15	32
+6/19/2016	images	India	100	3:00	65	35
+6/19/2016	all	India	66	3:01	54	28
+6/19/2016	blogs	Indonesia	7	1:00	0	4
+6/19/2016	microblogs	Indonesia	100	1:01	4	158
+6/19/2016	bookmarks	Indonesia	32	3:01	18	26
+6/19/2016	images	Indonesia	100	58:00:00	81	19
+6/19/2016	all	Indonesia	61	33:01:00	69	18
+6/19/2016	blogs	Iran	8	1:01	0	2
+6/19/2016	microblogs	Iran	NA	NA	NA	NA
+6/19/2016	bookmarks	Iran	34	1:02	23	26
+6/19/2016	images	Iran	100	0:01	91	9
+6/19/2016	all	Iran	77	1:01	56	33
+6/19/2016	blogs	Iraq	14	4:01	0	0
+6/19/2016	microblogs	Iraq	100	3:01	10	156
+6/19/2016	bookmarks	Iraq	38	1:03	26	28
+6/19/2016	images	Iraq	100	3:01	42	57
+6/19/2016	all	Iraq	100	2:01	27	76
+6/19/2016	blogs	Ireland	9	2:01	0	4
+6/19/2016	microblogs	Ireland	100	7:01	3	166
+6/19/2016	bookmarks	Ireland	42	10:00	4	40
+6/19/2016	images	Ireland	100	2:00	53	94
+6/19/2016	all	Ireland	88	9:01	27	63
+6/19/2016	blogs	Israel	15	4:00	0	3
+6/19/2016	microblogs	Israel	100	4:01	11	150
+6/19/2016	bookmarks	Israel	42	0:03	14	36
+6/19/2016	images	Israel	100	0:01	35	65
+6/19/2016	all	Israel	68	1:01	30	43
+6/19/2016	blogs	Italy	6	3:01	0	1
+6/19/2016	microblogs	Italy	72	2:01	2	70
+6/19/2016	bookmarks	Italy	42	8:00	4	40
+6/19/2016	images	Italy	100	0:00	78	44
+6/19/2016	all	Italy	63	7:01	51	30
+6/19/2016	blogs	Ivory Coast	6	0:00	16	5
+6/19/2016	microblogs	Ivory Coast	100	2:01	14	168
+6/19/2016	bookmarks	Ivory Coast	6	4:01	19	34
+6/19/2016	images	Ivory Coast	97	0:01	60	38
+6/19/2016	all	Ivory Coast	82	2:01	34	58
+6/19/2016	blogs	Jamaica	13	1:01	0	4
+6/19/2016	microblogs	Jamaica	NA	NA	NA	NA
+6/19/2016	bookmarks	Jamaica	26	13:00	5	38
+6/19/2016	images	Jamaica	100	2:00	34	66
+6/19/2016	all	Jamaica	63	5:01	28	45
+6/19/2016	blogs	Japan	11	4:01	0	6
+6/19/2016	microblogs	Japan	NA	NA	NA	NA
+6/19/2016	bookmarks	Japan	26	5:01	0	26
+6/19/2016	images	Japan	100	1:00	72	56
+6/19/2016	all	Japan	91	5:01	43	50
+6/19/2016	blogs	Jordan	4	0:00	0	2
+6/19/2016	microblogs	Jordan	NA	NA	NA	NA
+6/19/2016	bookmarks	Jordan	42	11:01	9	38
+6/19/2016	images	Jordan	100	1:00	47	106
+6/19/2016	all	Jordan	73	22:01	28	52
+6/19/2016	blogs	Kazakhstan	6	4:01	0	3
+6/19/2016	microblogs	Kazakhstan	100	9:01	12	134
+6/19/2016	bookmarks	Kazakhstan	42	4:01	22	34
+6/19/2016	images	Kazakhstan	98	0:00	67	31
+6/19/2016	all	Kazakhstan	80	6:01	39	48
+6/19/2016	blogs	Kenya	8	2:01	33	4
+6/19/2016	microblogs	Kenya	100	14:01	7	156
+6/19/2016	bookmarks	Kenya	34	2:01	23	26
+6/19/2016	images	Kenya	100	3:00	62	38
+6/19/2016	all	Kenya	63	2:01	55	28
+6/19/2016	blogs	Kiribati	2	1:00	0	2
+6/19/2016	microblogs	Kiribati	100	1:00	53	82
+6/19/2016	bookmarks	Kiribati	2	4:00	33	12
+6/19/2016	images	Kiribati	100	1:00	27	100
+6/19/2016	all	Kiribati	48	6:00	27	38
+6/19/2016	blogs	Kuwait	5	2:00	0	4
+6/19/2016	microblogs	Kuwait	NA	NA	NA	NA
+6/19/2016	bookmarks	Kuwait	24	2:01	5	32
+6/19/2016	images	Kuwait	100	0:00	97	3
+6/19/2016	all	Kuwait	59	2:01	80	12
+6/19/2016	blogs	Kyrgyzstan	3	1:00	0	3
+6/19/2016	microblogs	Kyrgyzstan	100	3:00	35	78
+6/19/2016	bookmarks	Kyrgyzstan	2	3:00	0	18
+6/19/2016	images	Kyrgyzstan	100	1:01	57	80
+6/19/2016	all	Kyrgyzstan	64	8:01	45	37
+6/19/2016	blogs	Laos	1	0:00	0	1
+6/19/2016	microblogs	Laos	NA	NA	NA	NA
+6/19/2016	bookmarks	Laos	12	1:01	7	26
+6/19/2016	images	Laos	89	0:00	72	24
+6/19/2016	all	Laos	48	1:01	63	19
+6/19/2016	blogs	Latvia	1	1:00	0	1
+6/19/2016	microblogs	Latvia	100	8:01	6	178
+6/19/2016	bookmarks	Latvia	24	4:01	0	42
+6/19/2016	images	Latvia	100	0:00	91	9
+6/19/2016	all	Latvia	57	4:01	74	16
+6/19/2016	blogs	Lebanon	2	0:00	50	1
+6/19/2016	microblogs	Lebanon	NA	NA	NA	NA
+6/19/2016	bookmarks	Lebanon	28	7:01	0	34
+6/19/2016	images	Lebanon	100	3:01	55	44
+6/19/2016	all	Lebanon	76	5:01	47	41
+6/19/2016	blogs	Lesotho	2	1:00	0	2
+6/19/2016	microblogs	Lesotho	100	15:01	14	152
+6/19/2016	bookmarks	Lesotho	2	2:01	14	12
+6/19/2016	images	Lesotho	100	1:00	74	25
+6/19/2016	all	Lesotho	76	7:01	44	44
+6/19/2016	blogs	Liberia	0	1:00	0	0
+6/19/2016	microblogs	Liberia	100	2:01	12	150
+6/19/2016	bookmarks	Liberia	14	6:01	15	32
+6/19/2016	images	Liberia	61	0:00	81	11
+6/19/2016	all	Liberia	77	4:01	37	52
+6/19/2016	blogs	Libya	1	1:00	0	1
+6/19/2016	microblogs	Libya	100	1:02	10	122
+6/19/2016	bookmarks	Libya	36	4:01	9	38
+6/19/2016	images	Libya	79	5:00	69	20
+6/19/2016	all	Libya	42	7:01	54	20
+6/19/2016	blogs	Liechtenstein	1	2:00	0	1
+6/19/2016	microblogs	Liechtenstein	100	4:01	9	120
+6/19/2016	bookmarks	Liechtenstein	6	3:01	8	22
+6/19/2016	images	Liechtenstein	100	0:00	99	1
+6/19/2016	all	Liechtenstein	69	4:01	58	30
+6/19/2016	blogs	Lithuania	3	3:00	0	3
+6/19/2016	microblogs	Lithuania	100	6:01	9	166
+6/19/2016	bookmarks	Lithuania	26	7:01	10	36
+6/19/2016	images	Lithuania	87	0:00	73	22
+6/19/2016	all	Lithuania	77	7:01	36	51
+6/19/2016	blogs	Luxembourg	3	4:00	50	1
+6/19/2016	microblogs	Luxembourg	NA	NA	NA	NA
+6/19/2016	bookmarks	Luxembourg	24	7:01	13	38
+6/19/2016	images	Luxembourg	100	0:00	89	18
+6/19/2016	all	Luxembourg	50	9:01	73	15
+6/19/2016	blogs	Macedonia	1	1:00	0	1
+6/19/2016	microblogs	Macedonia	100	30:00:00	4	188
+6/19/2016	bookmarks	Macedonia	6	3:01	5	38
+6/19/2016	images	Macedonia	100	0:00	92	16
+6/19/2016	all	Macedonia	81	19:01	44	49
+6/19/2016	blogs	Madagascar	2	2:00	0	2
+6/19/2016	microblogs	Madagascar	NA	NA	NA	NA
+6/19/2016	bookmarks	Madagascar	12	2:01	10	36
+6/19/2016	images	Madagascar	100	0:00	58	41
+6/19/2016	all	Madagascar	81	3:01	30	61
+6/19/2016	blogs	Malawi	1	0:00	0	1
+6/19/2016	microblogs	Malawi	100	3:01	7	168
+6/19/2016	bookmarks	Malawi	10	2:01	22	28
+6/19/2016	images	Malawi	61	0:00	64	15
+6/19/2016	all	Malawi	56	3:01	25	46
+6/19/2016	blogs	Malaysia	9	6:01	16	5
+6/19/2016	microblogs	Malaysia	NA	NA	NA	NA
+6/19/2016	bookmarks	Malaysia	40	3:01	15	34
+6/19/2016	images	Malaysia	100	3:01	53	47
+6/19/2016	all	Malaysia	90	3:01	31	61
+6/19/2016	blogs	Maldives	3	0:01	0	3
+6/19/2016	microblogs	Maldives	100	14:01	6	188
+6/19/2016	bookmarks	Maldives	4	3:01	14	24
+6/19/2016	images	Maldives	53	1:00	60	20
+6/19/2016	all	Maldives	28	2:01	48	18
+6/19/2016	blogs	Mali	3	1:00	0	3
+6/19/2016	microblogs	Mali	100	4:01	9	134
+6/19/2016	bookmarks	Mali	28	1:01	40	26
+6/19/2016	images	Mali	100	3:00	37	56
+6/19/2016	all	Mali	53	2:01	36	36
+6/19/2016	blogs	Malta	4	1:00	0	4
+6/19/2016	microblogs	Malta	NA	NA	NA	NA
+6/19/2016	bookmarks	Malta	18	2:01	31	26
+6/19/2016	images	Malta	100	2:00	79	21
+6/19/2016	all	Malta	79	4:01	42	48
+6/19/2016	blogs	Marshall Islands	4	0:00	0	4
+6/19/2016	microblogs	Marshall Islands	100	3:01	6	178
+6/19/2016	bookmarks	Marshall Islands	4	3:00	0	14
+6/19/2016	images	Marshall Islands	60	0:00	48	29
+6/19/2016	all	Marshall Islands	31	3:00	40	20
+6/19/2016	blogs	Mauritania	6	0:00	0	0
+6/19/2016	microblogs	Mauritania	100	18:01	9	174
+6/19/2016	bookmarks	Mauritania	6	1:03	15	22
+6/19/2016	images	Mauritania	100	0:00	37	118
+6/19/2016	all	Mauritania	98	5:01	22	79
+6/19/2016	blogs	Mauritius	2	0:00	0	2
+6/19/2016	microblogs	Mauritius	NA	NA	NA	NA
+6/19/2016	bookmarks	Mauritius	8	3:00	38	22
+6/19/2016	images	Mauritius	100	4:01	69	28
+6/19/2016	all	Mauritius	65	7:01	63	27
+6/19/2016	blogs	Mexico	5	1:01	0	1
+6/19/2016	microblogs	Mexico	90	2:01	2	88
+6/19/2016	bookmarks	Mexico	34	3:00	11	30
+6/19/2016	images	Mexico	100	4:01	10	90
+6/19/2016	all	Mexico	61	5:01	10	53
+6/19/2016	blogs	Micronesia	NA	NA	NA	NA
+6/19/2016	microblogs	Micronesia	100	0:00	9	164
+6/19/2016	bookmarks	Micronesia	6	5:01	16	30
+6/19/2016	images	Micronesia	100	0:00	32	106
+6/19/2016	all	Micronesia	80	6:01	29	68
+6/19/2016	blogs	Moldova	6	1:00	33	4
+6/19/2016	microblogs	Moldova	100	4:01	17	122
+6/19/2016	bookmarks	Moldova	4	4:01	5	32
+6/19/2016	images	Moldova	90	1:00	70	26
+6/19/2016	all	Moldova	62	6:01	58	30
+6/19/2016	blogs	Monaco	2	2:00	0	1
+6/19/2016	microblogs	Monaco	100	7:00	1	140
+6/19/2016	bookmarks	Monaco	28	3:01	9	38
+6/19/2016	images	Monaco	100	0:00	68	31
+6/19/2016	all	Monaco	75	7:01	36	49
+6/19/2016	blogs	Mongolia	4	3:01	0	4
+6/19/2016	microblogs	Mongolia	100	12:01	9	176
+6/19/2016	bookmarks	Mongolia	26	9:01	5	36
+6/19/2016	images	Mongolia	70	0:00	65	24
+6/19/2016	all	Mongolia	60	8:01	21	49
+6/19/2016	blogs	Montenegro	4	1:01	25	3
+6/19/2016	microblogs	Montenegro	100	61:01:00	4	174
+6/19/2016	bookmarks	Montenegro	8	8:00	20	32
+6/19/2016	images	Montenegro	84	1:01	80	16
+6/19/2016	all	Montenegro	73	12:01	38	49
+6/19/2016	blogs	Morocco	2	1:01	0	2
+6/19/2016	microblogs	Morocco	NA	NA	NA	NA
+6/19/2016	bookmarks	Morocco	34	8:00	10	34
+6/19/2016	images	Morocco	70	0:00	46	37
+6/19/2016	all	Morocco	74	12:01	34	49
+6/19/2016	blogs	Mozambique	4	1:00	0	4
+6/19/2016	microblogs	Mozambique	100	4:00	16	166
+6/19/2016	bookmarks	Mozambique	10	8:01	16	30
+6/19/2016	images	Mozambique	72	2:00	63	26
+6/19/2016	all	Mozambique	52	11:01	52	29
+6/19/2016	blogs	Myanmar	2	1:01	0	2
+6/19/2016	microblogs	Myanmar	100	1:31	16	148
+6/19/2016	bookmarks	Myanmar	18	7:00	13	38
+6/19/2016	images	Myanmar	46	0:00	61	18
+6/19/2016	all	Myanmar	67	1:03	32	48
+6/19/2016	blogs	Namibia	7	3:01	83	1
+6/19/2016	microblogs	Namibia	NA	NA	NA	NA
+6/19/2016	bookmarks	Namibia	4	5:00	22	34
+6/19/2016	images	Namibia	100	1:00	53	58
+6/19/2016	all	Namibia	36	9:01	48	24
+6/19/2016	blogs	Nauru	1	0:00	0	1
+6/19/2016	microblogs	Nauru	100	1:02	15	166
+6/19/2016	bookmarks	Nauru	0	1:00	10	18
+6/19/2016	images	Nauru	100	0:00	38	102
+6/19/2016	all	Nauru	73	1:01	25	58
+6/19/2016	blogs	Nepal	5	3:00	0	4
+6/19/2016	microblogs	Nepal	100	7:01	22	130
+6/19/2016	bookmarks	Nepal	40	4:01	0	40
+6/19/2016	images	Nepal	100	1:00	91	9
+6/19/2016	all	Nepal	84	6:01	52	40
+6/19/2016	blogs	Netherlands	6	2:00	0	2
+6/19/2016	microblogs	Netherlands	NA	NA	NA	NA
+6/19/2016	bookmarks	Netherlands	38	2:01	5	36
+6/19/2016	images	Netherlands	100	0:00	81	38
+6/19/2016	all	Netherlands	63	2:01	67	20
+6/19/2016	blogs	Holland	6	3:00	0	5
+6/19/2016	microblogs	Holland	100	19:01	3	164
+6/19/2016	bookmarks	Holland	42	2:01	14	36
+6/19/2016	images	Holland	44	1:01	29	31
+6/19/2016	all	Holland	46	3:01	24	34
+6/19/2016	blogs	New Zealand	12	1:01	40	3
+6/19/2016	microblogs	New Zealand	100	4:01	1	182
+6/19/2016	bookmarks	New Zealand	30	2:01	20	24
+6/19/2016	images	New Zealand	100	1:04	68	32
+6/19/2016	all	New Zealand	64	1:01	61	23
+6/19/2016	blogs	Nicaragua	5	2:00	20	4
+6/19/2016	microblogs	Nicaragua	100	3:01	16	162
+6/19/2016	bookmarks	Nicaragua	30	4:01	15	32
+6/19/2016	images	Nicaragua	88	0:00	39	32
+6/19/2016	all	Nicaragua	68	4:01	24	53
+6/19/2016	blogs	Niger	5	1:00	0	5
+6/19/2016	microblogs	Niger	100	1:01	38	110
+6/19/2016	bookmarks	Niger	6	5:00	31	26
+6/19/2016	images	Niger	65	2:00	35	39
+6/19/2016	all	Niger	63	4:01	35	45
+6/19/2016	blogs	Nigeria	4	0:00	0	4
+6/19/2016	microblogs	Nigeria	NA	NA	NA	NA
+6/19/2016	bookmarks	Nigeria	40	1:01	40	26
+6/19/2016	images	Nigeria	100	5:01	46	54
+6/19/2016	all	Nigeria	74	2:01	36	48
+6/19/2016	blogs	North Korea	2	1:02	0	2
+6/19/2016	microblogs	North Korea	100	3:01	6	180
+6/19/2016	bookmarks	North Korea	40	1:03	10	36
+6/19/2016	images	North Korea	73	6:00	35	41
+6/19/2016	all	North Korea	43	1:01	29	31
+6/19/2016	blogs	Norway	2	2:00	0	0
+6/19/2016	microblogs	Norway	NA	NA	NA	NA
+6/19/2016	bookmarks	Norway	36	1:02	11	32
+6/19/2016	images	Norway	100	1:00	52	96
+6/19/2016	all	Norway	60	1:01	45	33
+6/19/2016	blogs	Oman	1	0:00	0	1
+6/19/2016	microblogs	Oman	100	2:00	20	106
+6/19/2016	bookmarks	Oman	10	5:01	35	26
+6/19/2016	images	Oman	100	2:00	77	23
+6/19/2016	all	Oman	70	9:01	52	36
+6/19/2016	blogs	Pakistan	13	1:01	42	4
+6/19/2016	microblogs	Pakistan	NA	NA	NA	NA
+6/19/2016	bookmarks	Pakistan	40	1:01	15	34
+6/19/2016	images	Pakistan	100	0:00	71	28
+6/19/2016	all	Pakistan	66	1:01	61	24
+6/19/2016	blogs	Palau	2	0:00	0	2
+6/19/2016	microblogs	Palau	NA	NA	NA	NA
+6/19/2016	bookmarks	Palau	10	5:01	21	30
+6/19/2016	images	Palau	76	0:00	71	21
+6/19/2016	all	Palau	84	3:01	37	56
+6/19/2016	blogs	Panama	8	2:00	66	2
+6/19/2016	microblogs	Panama	NA	NA	NA	NA
+6/19/2016	bookmarks	Panama	36	3:01	15	32
+6/19/2016	images	Panama	100	2:00	67	33
+6/19/2016	all	Panama	64	4:01	59	26
+6/19/2016	blogs	Papua New Guinea	6	1:01	0	0
+6/19/2016	microblogs	Papua New Guinea	NA	NA	NA	NA
+6/19/2016	bookmarks	Papua New Guinea	2	4:01	12	28
+6/19/2016	images	Papua New Guinea	100	2:00	53	74
+6/19/2016	all	Papua New Guinea	87	5:01	26	68
+6/19/2016	blogs	Paraguay	2	1:00	0	0
+6/19/2016	microblogs	Paraguay	100	2:00	9	152
+6/19/2016	bookmarks	Paraguay	2	4:01	19	34
+6/19/2016	images	Paraguay	72	0:00	40	40
+6/19/2016	all	Paraguay	46	4:01	35	38
+6/19/2016	blogs	Peru	3	4:01	0	2
+6/19/2016	microblogs	Peru	NA	NA	NA	NA
+6/19/2016	bookmarks	Peru	42	2:01	42	24
+6/19/2016	images	Peru	100	3:00	60	80
+6/19/2016	all	Peru	67	3:01	43	38
+6/19/2016	blogs	Philippines	4	1:01	0	2
+6/19/2016	microblogs	Philippines	100	2:01	6	186
+6/19/2016	bookmarks	Philippines	38	1:02	10	34
+6/19/2016	images	Philippines	100	0:01	53	68
+6/19/2016	all	Philippines	78	1:01	24	58
+6/19/2016	blogs	Poland	9	1:02	0	4
+6/19/2016	microblogs	Poland	100	10:01	3	174
+6/19/2016	bookmarks	Poland	42	5:01	9	38
+6/19/2016	images	Poland	100	1:00	81	19
+6/19/2016	all	Poland	88	4:01	41	51
+6/19/2016	blogs	Portugal	10	4:00	0	2
+6/19/2016	microblogs	Portugal	100	4:01	9	166
+6/19/2016	bookmarks	Portugal	38	2:01	10	34
+6/19/2016	images	Portugal	100	0:00	92	8
+6/19/2016	all	Portugal	89	5:01	46	46
+6/19/2016	blogs	Qatar	6	2:01	0	2
+6/19/2016	microblogs	Qatar	NA	NA	NA	NA
+6/19/2016	bookmarks	Qatar	38	1:01	15	32
+6/19/2016	images	Qatar	48	4:00	46	16
+6/19/2016	all	Qatar	40	1:01	19	31
+6/19/2016	blogs	Romania	11	2:01	0	2
+6/19/2016	microblogs	Romania	NA	NA	NA	NA
+6/19/2016	bookmarks	Romania	40	2:01	0	40
+6/19/2016	images	Romania	92	1:00	63	33
+6/19/2016	all	Romania	86	2:01	29	59
+6/19/2016	blogs	Russian Federation	5	1:02	25	3
+6/19/2016	microblogs	Russian Federation	NA	NA	NA	NA
+6/19/2016	bookmarks	Russian Federation	8	12:00	47	20
+6/19/2016	images	Russian Federation	100	1:01	25	84
+6/19/2016	all	Russian Federation	65	4:01	21	56
+6/19/2016	blogs	Rwanda	4	1:00	0	4
+6/19/2016	microblogs	Rwanda	NA	NA	NA	NA
+6/19/2016	bookmarks	Rwanda	6	3:01	0	38
+6/19/2016	images	Rwanda	100	1:00	63	26
+6/19/2016	all	Rwanda	81	6:01	32	61
+6/19/2016	blogs	Saint Kitts and Nevis	9	3:01	0	9
+6/19/2016	microblogs	Saint Kitts and Nevis	NA	NA	NA	NA
+6/19/2016	bookmarks	Saint Kitts and Nevis	NA	NA	NA	NA
+6/19/2016	images	Saint Kitts and Nevis	100	5:00	49	94
+6/19/2016	all	Saint Kitts and Nevis	55	18:01	33	66
+6/19/2016	blogs	Saint Lucia	6	1:00	0	6
+6/19/2016	microblogs	Saint Lucia	100	10:01	15	168
+6/19/2016	bookmarks	Saint Lucia	2	3:00	40	6
+6/19/2016	images	Saint Lucia	100	3:00	73	50
+6/19/2016	all	Saint Lucia	76	13:01	42	48
+6/19/2016	blogs	Saint Vincent and the Grenadines	11	3:00	0	9
+6/19/2016	microblogs	Saint Vincent and the Grenadines	NA	NA	NA	NA
+6/19/2016	bookmarks	Saint Vincent and the Grenadines	NA	NA	NA	NA
+6/19/2016	images	Saint Vincent and the Grenadines	100	3:00	51	96
+6/19/2016	all	Saint Vincent and the Grenadines	56	12:00	36	49
+6/19/2016	blogs	Samoa	0	0:00	0	0
+6/19/2016	microblogs	Samoa	NA	NA	NA	NA
+6/19/2016	bookmarks	Samoa	16	15:00	0	38
+6/19/2016	images	Samoa	92	2:00	55	40
+6/19/2016	all	Samoa	77	19:00	30	57
+6/19/2016	blogs	San Marino	2	0:01	0	2
+6/19/2016	microblogs	San Marino	100	1:01	25	150
+6/19/2016	bookmarks	San Marino	4	2:01	12	28
+6/19/2016	images	San Marino	100	2:00	61	38
+6/19/2016	all	San Marino	51	2:01	53	27
+6/19/2016	blogs	Sao Tome and Principe	4	0:00	50	2
+6/19/2016	microblogs	Sao Tome and Principe	28	1:00	17	76
+6/19/2016	bookmarks	Sao Tome and Principe	2	2:00	0	6
+6/19/2016	images	Sao Tome and Principe	100	2:00	47	90
+6/19/2016	all	Sao Tome and Principe	51	5:00	36	44
+6/19/2016	blogs	Saudi Arabia	6	1:01	0	2
+6/19/2016	microblogs	Saudi Arabia	100	1:03	4	122
+6/19/2016	bookmarks	Saudi Arabia	28	1:03	14	24
+6/19/2016	images	Saudi Arabia	52	0:00	83	7
+6/19/2016	all	Saudi Arabia	32	1:02	64	11
+6/19/2016	blogs	Senegal	1	0:00	0	1
+6/19/2016	microblogs	Senegal	90	3:00	8	82
+6/19/2016	bookmarks	Senegal	10	2:01	13	26
+6/19/2016	images	Senegal	100	1:01	32	106
+6/19/2016	all	Senegal	51	3:01	21	43
+6/19/2016	blogs	Serbia	2	1:00	0	0
+6/19/2016	microblogs	Serbia	100	7:01	2	180
+6/19/2016	bookmarks	Serbia	36	2:00	22	28
+6/19/2016	images	Serbia	100	2:00	57	42
+6/19/2016	all	Serbia	100	11:01	30	73
+6/19/2016	blogs	Seychelles	2	0:00	0	2
+6/19/2016	microblogs	Seychelles	100	4:00	8	108
+6/19/2016	bookmarks	Seychelles	2	4:00	16	10
+6/19/2016	images	Seychelles	100	0:00	84	16
+6/19/2016	all	Seychelles	66	8:00	53	32
+6/19/2016	blogs	Sierra Leone	4	2:00	0	4
+6/19/2016	microblogs	Sierra Leone	100	16:01	13	152
+6/19/2016	bookmarks	Sierra Leone	20	4:01	20	32
+6/19/2016	images	Sierra Leone	38	0:00	26	28
+6/19/2016	all	Sierra Leone	49	9:01	16	44
+6/19/2016	blogs	Singapore	6	2:00	0	6
+6/19/2016	microblogs	Singapore	NA	NA	NA	NA
+6/19/2016	bookmarks	Singapore	40	2:01	20	32
+6/19/2016	images	Singapore	100	1:00	61	39
+6/19/2016	all	Singapore	100	4:01	31	73
+6/19/2016	blogs	Slovakia	3	2:00	0	3
+6/19/2016	microblogs	Slovakia	NA	NA	NA	NA
+6/19/2016	bookmarks	Slovakia	42	6:01	19	34
+6/19/2016	images	Slovakia	66	0:00	88	7
+6/19/2016	all	Slovakia	43	8:01	68	14
+6/19/2016	blogs	Slovenia	1	1:00	0	1
+6/19/2016	microblogs	Slovenia	NA	NA	NA	NA
+6/19/2016	bookmarks	Slovenia	40	6:00	22	34
+6/19/2016	images	Slovenia	100	0:00	97	6
+6/19/2016	all	Slovenia	61	7:00	82	11
+6/19/2016	blogs	Solomon Islands	2	0:00	0	2
+6/19/2016	microblogs	Solomon Islands	100	11:01	19	148
+6/19/2016	bookmarks	Solomon Islands	2	3:00	12	14
+6/19/2016	images	Solomon Islands	81	2:01	44	44
+6/19/2016	all	Solomon Islands	87	6:01	30	63
+6/19/2016	blogs	Somalia	2	3:00	0	2
+6/19/2016	microblogs	Somalia	NA	NA	NA	NA
+6/19/2016	bookmarks	Somalia	28	1:01	10	36
+6/19/2016	images	Somalia	52	2:00	50	24
+6/19/2016	all	Somalia	64	3:01	22	51
+6/19/2016	blogs	South Africa	11	4:00	20	4
+6/19/2016	microblogs	South Africa	100	14:01	5	186
+6/19/2016	bookmarks	South Africa	36	1:01	16	30
+6/19/2016	images	South Africa	100	96:00:00	95	5
+6/19/2016	all	South Africa	91	24:01:00	46	48
+6/19/2016	blogs	South Korea	8	2:01	12	7
+6/19/2016	microblogs	South Korea	100	4:01	9	166
+6/19/2016	bookmarks	South Korea	32	1:02	12	28
+6/19/2016	images	South Korea	90	3:00	70	25
+6/19/2016	all	South Korea	81	2:01	36	52
+6/19/2016	blogs	South Sudan	0	1:00	0	0
+6/19/2016	microblogs	South Sudan	100	7:01	5	184
+6/19/2016	bookmarks	South Sudan	20	2:01	41	20
+6/19/2016	images	South Sudan	100	1:03	79	42
+6/19/2016	all	South Sudan	86	2:01	41	52
+6/19/2016	blogs	Spain	6	2:00	0	1
+6/19/2016	microblogs	Spain	82	2:01	0	82
+6/19/2016	bookmarks	Spain	42	9:01	4	40
+6/19/2016	images	Spain	100	1:00	75	25
+6/19/2016	all	Spain	68	7:01	46	35
+6/19/2016	blogs	Sri Lanka	4	2:01	0	3
+6/19/2016	microblogs	Sri Lanka	100	2:01	14	156
+6/19/2016	bookmarks	Sri Lanka	18	6:01	0	40
+6/19/2016	images	Sri Lanka	100	5:01	76	48
+6/19/2016	all	Sri Lanka	82	2:01	41	50
+6/19/2016	blogs	Sudan	2	1:00	0	2
+6/19/2016	microblogs	Sudan	100	3:00	3	154
+6/19/2016	bookmarks	Sudan	28	2:01	31	26
+6/19/2016	images	Sudan	100	1:00	95	5
+6/19/2016	all	Sudan	79	3:01	51	39
+6/19/2016	blogs	Suriname	0	2:00	0	0
+6/19/2016	microblogs	Suriname	NA	NA	NA	NA
+6/19/2016	bookmarks	Suriname	2	5:01	9	20
+6/19/2016	images	Suriname	100	0:00	53	35
+6/19/2016	all	Suriname	80	7:01	44	47
+6/19/2016	blogs	Swaziland	NA	NA	NA	NA
+6/19/2016	microblogs	Swaziland	NA	NA	NA	NA
+6/19/2016	bookmarks	Swaziland	4	1:02	20	8
+6/19/2016	images	Swaziland	96	0:01	58	39
+6/19/2016	all	Swaziland	97	1:03	57	43
+6/19/2016	blogs	Sweden	6	1:00	0	0
+6/19/2016	microblogs	Sweden	100	1:01	4	174
+6/19/2016	bookmarks	Sweden	34	2:01	5	32
+6/19/2016	images	Sweden	100	0:00	93	14
+6/19/2016	all	Sweden	80	2:01	81	15
+6/19/2016	blogs	Switzerland	5	2:01	0	1
+6/19/2016	microblogs	Switzerland	NA	NA	NA	NA
+6/19/2016	bookmarks	Switzerland	34	2:01	5	32
+6/19/2016	images	Switzerland	100	1:00	67	33
+6/19/2016	all	Switzerland	74	2:01	37	46
+6/19/2016	blogs	Syria	20	0:00	0	0
+6/19/2016	microblogs	Syria	100	2:01	2	156
+6/19/2016	bookmarks	Syria	44	4:00	50	22
+6/19/2016	images	Syria	100	0:02	95	5
+6/19/2016	all	Syria	100	5:01	52	49
+6/19/2016	blogs	Tajikistan	2	1:01	50	1
+6/19/2016	microblogs	Tajikistan	NA	NA	NA	NA
+6/19/2016	bookmarks	Tajikistan	6	8:01	11	32
+6/19/2016	images	Tajikistan	100	1:00	42	80
+6/19/2016	all	Tajikistan	37	5:01	35	29
+6/19/2016	blogs	Tanzania	3	4:00	0	3
+6/19/2016	microblogs	Tanzania	100	16:00	17	156
+6/19/2016	bookmarks	Tanzania	12	4:01	19	34
+6/19/2016	images	Tanzania	36	0:00	50	7
+6/19/2016	all	Tanzania	47	24:01:00	20	42
+6/19/2016	blogs	Thailand	6	2:00	0	2
+6/19/2016	microblogs	Thailand	100	9:01	3	192
+6/19/2016	bookmarks	Thailand	38	1:01	15	32
+6/19/2016	images	Thailand	100	85:00:00	90	10
+6/19/2016	all	Thailand	90	12:01	43	50
+6/19/2016	blogs	Togo	1	1:00	0	1
+6/19/2016	microblogs	Togo	100	13:00	2	144
+6/19/2016	bookmarks	Togo	8	2:01	6	30
+6/19/2016	images	Togo	70	1:00	87	9
+6/19/2016	all	Togo	72	7:01	47	40
+6/19/2016	blogs	Tonga	0	1:00	0	0
+6/19/2016	microblogs	Tonga	100	3:01	12	140
+6/19/2016	bookmarks	Tonga	14	1:01	21	30
+6/19/2016	images	Tonga	66	1:00	53	27
+6/19/2016	all	Tonga	86	2:01	32	62
+6/19/2016	blogs	Trinidad and Tobago	2	1:00	0	1
+6/19/2016	microblogs	Trinidad and Tobago	100	16:01	5	188
+6/19/2016	bookmarks	Trinidad and Tobago	2	7:01	14	24
+6/19/2016	images	Trinidad and Tobago	100	1:00	97	3
+6/19/2016	all	Trinidad and Tobago	81	13:01	48	44
+6/19/2016	blogs	Tunisia	1	0:00	0	1
+6/19/2016	microblogs	Tunisia	NA	NA	NA	NA
+6/19/2016	bookmarks	Tunisia	12	5:01	5	36
+6/19/2016	images	Tunisia	100	0:00	78	30
+6/19/2016	all	Tunisia	67	4:01	37	46
+6/19/2016	blogs	Turkey	12	2:01	0	0
+6/19/2016	microblogs	Turkey	100	1:02	5	174
+6/19/2016	bookmarks	Turkey	38	1:01	5	36
+6/19/2016	images	Turkey	100	2:00	64	36
+6/19/2016	all	Turkey	100	1:01	32	72
+6/19/2016	blogs	Turkmenistan	2	0:00	0	2
+6/19/2016	microblogs	Turkmenistan	100	6:00	29	108
+6/19/2016	bookmarks	Turkmenistan	6	6:01	10	34
+6/19/2016	images	Turkmenistan	100	1:00	33	134
+6/19/2016	all	Turkmenistan	91	13:01	29	70
+6/19/2016	blogs	Tuvalu	NA	NA	NA	NA
+6/19/2016	microblogs	Tuvalu	100	3:00	20	154
+6/19/2016	bookmarks	Tuvalu	2	1:00	0	4
+6/19/2016	images	Tuvalu	100	1:00	56	78
+6/19/2016	all	Tuvalu	100	5:00	37	79
+6/19/2016	blogs	Uganda	1	2:01	0	1
+6/19/2016	microblogs	Uganda	100	1:01	10	174
+6/19/2016	bookmarks	Uganda	18	1:02	10	34
+6/19/2016	images	Uganda	51	0:00	70	8
+6/19/2016	all	Uganda	54	1:01	20	46
+6/19/2016	blogs	Ukraine	3	4:00	0	3
+6/19/2016	microblogs	Ukraine	100	0:03	12	146
+6/19/2016	bookmarks	Ukraine	28	4:01	14	24
+6/19/2016	images	Ukraine	100	7:00	95	5
+6/19/2016	all	Ukraine	80	2:01	53	37
+6/19/2016	blogs	United Arab Emirates	5	3:00	25	3
+6/19/2016	microblogs	United Arab Emirates	NA	NA	NA	NA
+6/19/2016	bookmarks	United Arab Emirates	8	5:01	9	38
+6/19/2016	images	United Arab Emirates	93	1:00	66	31
+6/19/2016	all	United Arab Emirates	51	7:01	54	27
+6/19/2016	blogs	UAE	7	4:00	0	4
+6/19/2016	microblogs	UAE	38	0:00	21	30
+6/19/2016	bookmarks	UAE	32	5:01	4	42
+6/19/2016	images	UAE	92	0:00	70	26
+6/19/2016	all	UAE	52	7:01	50	26
+6/19/2016	blogs	United Kingdom	2	0:00	0	1
+6/19/2016	microblogs	United Kingdom	NA	NA	NA	NA
+6/19/2016	bookmarks	United Kingdom	42	3:01	14	36
+6/19/2016	images	United Kingdom	100	3:00	87	13
+6/19/2016	all	United Kingdom	63	3:01	58	26
+6/19/2016	blogs	Britain	15	2:01	0	4
+6/19/2016	microblogs	Britain	NA	NA	NA	NA
+6/19/2016	bookmarks	Britain	38	1:01	21	30
+6/19/2016	images	Britain	100	3:01	60	38
+6/19/2016	all	Britain	65	2:01	50	30
+6/19/2016	blogs	Great Britain	8	11:01	0	5
+6/19/2016	microblogs	Great Britain	100	91:01:00	3	180
+6/19/2016	bookmarks	Great Britain	44	3:01	36	28
+6/19/2016	images	Great Britain	100	44:00:00	84	26
+6/19/2016	all	Great Britain	57	10:01	71	16
+6/19/2016	blogs	UK	9	2:00	0	3
+6/19/2016	microblogs	UK	NA	NA	NA	NA
+6/19/2016	bookmarks	UK	40	13:00	10	36
+6/19/2016	images	UK	100	0:01	27	72
+6/19/2016	all	UK	65	15:01	23	47
+6/19/2016	blogs	United States	6	1:00	0	1
+6/19/2016	microblogs	United States	NA	NA	NA	NA
+6/19/2016	bookmarks	United States	44	6:01	13	38
+6/19/2016	images	United States	70	9:00	57	29
+6/19/2016	all	United States	79	6:01	32	52
+6/19/2016	blogs	United States of America	19	7:01	0	4
+6/19/2016	microblogs	United States of America	100	1:01	4	192
+6/19/2016	bookmarks	United States of America	22	8:01	0	22
+6/19/2016	images	United States of America	100	9:00	57	43
+6/19/2016	all	United States of America	65	12:01	49	29
+6/19/2016	blogs	America	6	2:00	0	1
+6/19/2016	microblogs	America	100	2:01	2	152
+6/19/2016	bookmarks	America	38	4:01	21	30
+6/19/2016	images	America	100	0:00	75	25
+6/19/2016	all	America	77	5:01	43	43
+6/19/2016	blogs	US	15	2:01	0	5
+6/19/2016	microblogs	US	NA	NA	NA	NA
+6/19/2016	bookmarks	US	40	2:01	10	36
+6/19/2016	images	US	100	1:00	12	88
+6/19/2016	all	US	68	3:01	10	56
+6/19/2016	blogs	USA	8	3:00	0	2
+6/19/2016	microblogs	USA	100	5:01	5	130
+6/19/2016	bookmarks	USA	42	3:01	4	40
+6/19/2016	images	USA	100	1:00	52	48
+6/19/2016	all	USA	77	4:01	28	54
+6/19/2016	blogs	Uruguay	6	1:03	0	0
+6/19/2016	microblogs	Uruguay	100	6:01	3	178
+6/19/2016	bookmarks	Uruguay	18	5:01	19	34
+6/19/2016	images	Uruguay	100	1:00	81	19
+6/19/2016	all	Uruguay	74	1:01	69	25
+6/19/2016	blogs	Uzbekistan	1	0:00	0	1
+6/19/2016	microblogs	Uzbekistan	100	1:00	1	186
+6/19/2016	bookmarks	Uzbekistan	8	6:00	40	24
+6/19/2016	images	Uzbekistan	100	3:01	73	48
+6/19/2016	all	Uzbekistan	76	10:01	36	52
+6/19/2016	blogs	Vanuatu	8	1:00	14	6
+6/19/2016	microblogs	Vanuatu	NA	NA	NA	NA
+6/19/2016	bookmarks	Vanuatu	20	7:01	38	22
+6/19/2016	images	Vanuatu	100	1:02	65	58
+6/19/2016	all	Vanuatu	80	4:01	33	56
+6/19/2016	blogs	Vatican City	3	1:00	0	2
+6/19/2016	microblogs	Vatican City	100	1:00	3	194
+6/19/2016	bookmarks	Vatican City	6	3:01	26	28
+6/19/2016	images	Vatican City	94	0:00	84	14
+6/19/2016	all	Vatican City	50	3:01	73	15
+6/19/2016	blogs	Venezuela	10	2:01	0	2
+6/19/2016	microblogs	Venezuela	NA	NA	NA	NA
+6/19/2016	bookmarks	Venezuela	32	5:00	6	30
+6/19/2016	images	Venezuela	100	0:00	80	20
+6/19/2016	all	Venezuela	86	4:01	41	49
+6/19/2016	blogs	Vietnam	4	2:00	0	1
+6/19/2016	microblogs	Vietnam	100	16:01	12	156
+6/19/2016	bookmarks	Vietnam	38	1:01	10	34
+6/19/2016	images	Vietnam	100	3:00	66	34
+6/19/2016	all	Vietnam	85	4:01	37	53
+6/19/2016	blogs	Yemen	4	0:01	25	3
+6/19/2016	microblogs	Yemen	NA	NA	NA	NA
+6/19/2016	bookmarks	Yemen	24	3:01	29	24
+6/19/2016	images	Yemen	75	1:01	84	11
+6/19/2016	all	Yemen	66	2:01	42	40
+6/19/2016	blogs	Zambia	8	1:00	25	6
+6/19/2016	microblogs	Zambia	100	2:01	13	160
+6/19/2016	bookmarks	Zambia	6	5:00	25	24
+6/19/2016	images	Zambia	93	1:00	64	32
+6/19/2016	all	Zambia	95	3:01	37	64
+6/19/2016	blogs	Zimbabwe	8	1:01	0	3
+6/19/2016	microblogs	Zimbabwe	100	1:03	31	132
+6/19/2016	bookmarks	Zimbabwe	28	1:01	9	38
+6/19/2016	images	Zimbabwe	99	1:11	65	33
+6/19/2016	all	Zimbabwe	86	1:04	43	49
