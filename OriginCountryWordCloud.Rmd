@@ -1,0 +1,57 @@
+---
+title: "Origin Country"
+author: "Abhinav Yedla"
+date: "October 10, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Complete Set of Words
+
+This canvas include all `Origin Country` words.For detials on how data is collected or for API access see <https://github.com/AbhinavYedla/gautocompleter>.
+
+## Word canvas
+
+```{r pressure, echo=FALSE}
+suppressMessages(library(tm))
+suppressMessages(library(SnowballC))
+suppressMessages(library(wordcloud))
+
+data <-
+  read.delim("GoogleAutoComplete_Tidy_2_Countries.txt", sep = "\t")
+col.name <- colnames(data[, c(-1,-2,-3,-4,-5)])
+col.name <- gsub("\\.", " ", col.name)
+
+n <- 195
+#Origin
+for (i in 1:n) {
+  start <- i + 5
+  print(col.name[i])
+  corpus <- Corpus(VectorSource(data[, start]))
+  corpus <- tm_map(corpus, PlainTextDocument)
+  corpus <- tm_map(corpus, removePunctuation)
+  corpus <-
+    tm_map(
+      corpus,
+      removeWords,
+      c(
+        'the',
+        'this',
+        'No Value',
+        'low',
+        'high',
+        'water',
+        'river',
+        'many',
+        'blue',
+        'called',
+        stopwords('english')
+      )
+    )
+  wordcloud(corpus, max.words = 1950, random.order = FALSE,colors = rainbow(n = 20))
+  
+}
+```

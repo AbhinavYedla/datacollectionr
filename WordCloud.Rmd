@@ -1,0 +1,35 @@
+---
+title: "Word Cloud"
+author: "Abhinav Yedla"
+date: "October 9, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Complete Set of Words
+
+This canvas include `min(Top frequency 250 words, total words with atleast 10 frequency)` from complete set.For detials on how data is collected or for API access see <https://github.com/AbhinavYedla/gautocompleter>.
+
+## Word canvas
+
+```{r pressure, echo=FALSE}
+suppressMessages(library(tm))
+suppressMessages(library(SnowballC))
+suppressMessages(library(wordcloud))
+
+data <-
+  read.delim("GoogleAutoComplete_Tidy_2_Countries.txt", sep = "\t")
+
+corpus <- Corpus(VectorSource(data[, c(-1,-2,-3,-4)]))
+corpus <- tm_map(corpus, PlainTextDocument)
+corpus <- tm_map(corpus, removePunctuation)
+corpus <-
+  tm_map(corpus,
+         removeWords,
+         c('the', 'this', 'No Value', stopwords('english')))
+
+wordcloud(corpus, max.words = 300, random.order = FALSE,colors = rainbow(n = 100),min.freq = 10)
+```

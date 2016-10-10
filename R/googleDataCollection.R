@@ -2,20 +2,19 @@ library(gautocompleter)
 total.regions <- nrow(gSubDomain)
 fill.data.frame <- as.data.frame(replicate(10, "No Value"))
 colnames(fill.data.frame) <- "Result"
-
-data <- data.frame()
+data <- fill.data.frame
 df <- fill.data.frame
-
 
 for (i in 1:total.regions) {
   query <- as.character("Why is ")
   target.region <- gSubDomain[i, 1]
   
-  query <- paste0(query, target.region, " ")
+  query <- paste0(query, target.region, " so ")
   
   for (j in 1:total.regions) {
+    if(j!=127)
     data <-
-      googleAutoComplete(query = query, country = gSubDomain[j, 2])
+      google_autocomplete(query = query, country = gSubDomain[j, 2])
     
     total.rows <- nrow(data)
     
@@ -24,7 +23,7 @@ for (i in 1:total.regions) {
     
     df <- cbind(df, data[1:10,])
     
-    Sys.sleep(1)
+    Sys.sleep(0.5)
     
   }
   

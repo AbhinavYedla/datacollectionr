@@ -1,0 +1,82 @@
+---
+title: "Target Country"
+author: "Abhinav Yedla"
+date: "October 9, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Complete Set of Words
+
+This canvas include all `Target Country` words.For detials on how data is collected or for API access see <https://github.com/AbhinavYedla/gautocompleter>.
+
+## Word canvas
+
+```{r pressure, echo=FALSE}
+suppressMessages(library(tm))
+suppressMessages(library(SnowballC))
+suppressMessages(library(wordcloud))
+n <- 195
+data <-
+  read.delim("GoogleAutoComplete_Tidy_2_Countries.txt", sep = "\t")
+noval.list <- c(8,
+                11,
+                27,
+                36,
+                41,
+                43,
+                59,
+                71,
+                94,
+                96,
+                116,
+                117,
+                129,
+                130,
+                140,
+                149,
+                150,
+                153,
+                175,
+                177,
+                187,
+                190)
+
+for (i in 1:n) {
+  
+  if(is.element(i,noval.list))
+      next
+  
+  start <- (i - 1) * 10 + 1
+  end <- (i - 1) * 10 + 10
+  op <- as.character(data[start,1])
+  print(op)
+  corpus <- Corpus(VectorSource(data[start:end, c(-1, -2, -3, -4, -5)]))
+  corpus <- tm_map(corpus, PlainTextDocument)
+  corpus <- tm_map(corpus, removePunctuation)
+  corpus <-
+    tm_map(
+      corpus,
+      removeWords,
+      c(
+        'the',
+        'this',
+        'new',
+        'No Value',
+        'low',
+        'high',
+        'water',
+        'river',
+        'many',
+        'blue',
+        'called',
+        stopwords('english')
+      )
+    )
+
+    wordcloud(corpus, max.words = 250, random.order = FALSE,colors = rainbow(n = 100),scale=c(2,.2),rot.per=.15)
+}
+```
