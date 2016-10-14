@@ -28,6 +28,7 @@
 
 require(twitteR)
 
+#REmove retweets and see if you can get the count of total retweets
 #Authorize
 connection()
 
@@ -35,7 +36,7 @@ connection()
 countries <- gautocompleter::gSubDomain
 
 #Maximum number of tweets per request
-max.tweets <- 100000
+max.tweets <- 4000
 
 #Total Countries count
 total.countries <- nrow(countries)
@@ -44,16 +45,11 @@ total.countries <- nrow(countries)
 zero.tweets <- data.frame("", stringsAsFactors = FALSE)
 colnames(zero.tweets) <- "Country"
 
+#Counter for subset of data
+count <- 1
+
 #Loop through all the countries
-for (i in 5:total.countries) {
-  #Get the number of avaliable request remaining
-  limit <- getCurRateLimitInfo(resources = resource_families)
-  
-  #If nearing limit then wait for 5 minutes
-  if (limit[62, 3] < 10) {
-    Sys.sleep(300)
-  }
-  
+for (i in 5:5) {
   #Build the search string
   search.string <- as.character(countries[i, 1])
   
@@ -61,7 +57,7 @@ for (i in 5:total.countries) {
   result <-
     searchTwitter(searchString = search.string,
                   n = max.tweets,
-                  since = "2016-09-25")
+                  since = "2016-10-6")
   
   #If there are no tweets then skip to next country
   if (length(result) == 0) {
@@ -75,18 +71,6 @@ for (i in 5:total.countries) {
   #Get the total tweets retrieved
   total.rows <- nrow(result.df)
   
-  #If exceeds the limit then try to rerun with max id beeing the oldest tweets id from the current result set
-  if (total.rows == max.tweets) {
-    #Re run the join the results to result.df
-    result <-
-      searchTwitter(searchString = search.string,
-                    n = max.tweets,
-                    maxID = result.df[total.rows, 8])
-    result.df <- rbind(result.df, twListToDF(result))
-    
-  
-  }
-  
   #Write to text file
   write.table(
     result.df,
@@ -95,8 +79,45 @@ for (i in 5:total.countries) {
     sep = "\t"
   )
   
-  #Sys.sleep(1)
+  #If exceeds the limit then try to rerun with max id being the oldest tweets id from the current result set
+  while (total.rows == max.tweets) {
+    result <-
+      searchTwitter(searchString = search.string,
+                    n = max.tweets,
+                    maxID = result.df[total.rows, 8])
+    
+    #Convert the list to data frame
+    result.df <- twListToDF(result)
+    
+    #Get the total tweets retrieved
+    total.rows <- nrow(result.df)
+    
+    count <- count + 1
+    
+    #Write to text file
+    write.table(
+      result.df,
+      file = paste0("Twitter_Country/", countries[i, 1], "_Twitter.txt"),
+      row.names = FALSE,
+      append = TRUE,
+      col.names = FALSE,
+      sep = "\t"
+    )
+    
+    if (count %% 4 == 0)
+      Sys.sleep(900)
+  }
   
+  
+  #Get the number of avaliable request remaining
+  limit <- getCurRateLimitInfo(resources = resource_families)
+  
+  #If nearing limit then wait for 5 minutes
+  if (limit[62, 3] < 41) {
+    Sys.sleep(300)
+  }
+  
+  count <- 1
 }
 
 #Note the countries without any tweets
