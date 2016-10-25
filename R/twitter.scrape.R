@@ -36,7 +36,7 @@ connection()
 countries <- gautocompleter::gSubDomain
 
 #Maximum number of tweets per request
-max.tweets <- 4000
+max.tweets <- 8000
 
 #Total Countries count
 total.countries <- nrow(countries)
@@ -49,7 +49,7 @@ colnames(zero.tweets) <- "Country"
 count <- 1
 
 #Loop through all the countries
-for (i in 5:5) {
+for (i in 11:total.countries) {
   #Build the search string
   search.string <- as.character(countries[i, 1])
   
@@ -57,7 +57,7 @@ for (i in 5:5) {
   result <-
     searchTwitter(searchString = search.string,
                   n = max.tweets,
-                  since = "2016-10-6")
+                  since = "2016-10-14")
   
   #If there are no tweets then skip to next country
   if (length(result) == 0) {
@@ -81,6 +81,10 @@ for (i in 5:5) {
   
   #If exceeds the limit then try to rerun with max id being the oldest tweets id from the current result set
   while (total.rows == max.tweets) {
+    
+    if(count > 5)
+      break;
+    Sys.sleep(22)
     result <-
       searchTwitter(searchString = search.string,
                     n = max.tweets,
@@ -104,8 +108,12 @@ for (i in 5:5) {
       sep = "\t"
     )
     
-    if (count %% 4 == 0)
-      Sys.sleep(900)
+    limit <- getCurRateLimitInfo(resources = resource_families)
+    
+    #If nearing limit then wait for 5 minutes
+    if (limit[62, 3] < 41) {
+      Sys.sleep(500)
+    }
   }
   
   
